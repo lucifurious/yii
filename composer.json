@@ -1,0 +1,22 @@
+{
+	"name":        "lucifurious/yii",
+	"description": "Yii Web Programming Framework",
+	"keywords":    [
+		"php", "php5", "rest", "mvc", "framework", "web"
+	],
+	"homepage":    "https://github.com/lucifurious/yii",
+	"type":        "library",
+	"license":     "BSD",
+	"authors":     [
+		{
+			"name":  "Qiang Xue",
+			"email": "qiang.xue@gmail.com"
+		}
+	],
+	"require":     {
+		"php": ">=5.2"
+	},
+	"autoload":    {
+		"files": ["framework/yii.php"]
+	}
+}
